@@ -17,5 +17,5 @@ void Person::WhoAreYou()
 
 void Person::Write()
 {
-    cout<<name_<<" \""<<alias_<<"\" "<<surname_<<endl;
+    cout<<name_<<" "<<surname_<<" \""<<alias_<<"\""<<endl;
 }
