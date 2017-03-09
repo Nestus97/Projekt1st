@@ -12,5 +12,7 @@ private:
 public:
     void WhoAreYou(); //pyta o dane osoby
     void ChangeVowel(); //zmienia samogloski na 'z'
+    void Return(); //odwraca litery w slowach
     void Write(); //wypisuje osobe
+
 };

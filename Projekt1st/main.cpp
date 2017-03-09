@@ -10,6 +10,7 @@ int main()
     Person guy;
     guy.WhoAreYou();
     guy.ChangeVowel();
+    guy.Return();
     guy.Write();
     return 0;
 }
