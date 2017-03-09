@@ -9,6 +9,7 @@ int main()
 {
     Person guy;
     guy.WhoAreYou();
+    guy.Return();
     guy.Write();
     return 0;
 }

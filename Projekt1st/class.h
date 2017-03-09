@@ -11,5 +11,6 @@ private:
 
 public:
     void WhoAreYou(); //pyta o dane osoby
+    void Return(); //odwraca litery w slowach
     void Write(); //wypisuje osobe
 };
